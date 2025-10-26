@@ -1,0 +1,29 @@
+/* START GLOBAL STYLES */
+:root {
+    --bg-color: #fafafa;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "EXO", sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    background-color: var(--bg-color);
+}
+
+a, span {
+    display: inline-block;
+}
+
+a { 
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+/* END GLOBAL STYLES */
