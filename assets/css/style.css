@@ -813,7 +813,7 @@ button:hover {
 }
 
 .avatar-img {
-	max-width: 138px;
+	max-width: 128px;
 	border: 5px solid black;
 }
 
@@ -824,9 +824,8 @@ button:hover {
     margin: 15px;
 }
 
-.article p {
-    font-size: 32px;
-    font-weight: bold;
+.author p {
+    font-size: 18px;
     margin: 15px;
 }
 
